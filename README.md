@@ -1,2 +1,2 @@
 # Travel Buddy
-(images/travelbuddy.gif)
+![](images/travelbuddy.gif)
